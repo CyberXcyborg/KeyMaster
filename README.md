@@ -20,3 +20,10 @@ and manage their passwords securely, with additional support for two-factor auth
 - Passwords are encrypted using the `cryptography` library.
 - User authentication is handled with hashed passwords.
 - Two-factor authentication (2FA) is implemented using the `pyotp` library.
+
+## Support
+
+If you find this project helpful, consider supporting me on [Buy Me a Coffee](https://www.buymeacoffee.com/cyberxcyborg).
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cyberxcyborg)
+
